@@ -42,8 +42,7 @@ class= "logosEnviromentRequirement"
   <img height="80" class="logos" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
 </p>
 <p >
-  <img height="40"  class="logos" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png
-" />
+  <img height="40"  class="logos" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" />
 </p>
 <p >
   <img height="85"  class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" />
