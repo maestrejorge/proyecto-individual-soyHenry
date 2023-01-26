@@ -29,9 +29,9 @@ The general idea is to create an application in which you can see different food
   flex-direction: row;
   justify-content:space-between;
   }
- /* .logos{
+ .logos{
   margin: 0 100px;
- } */
+ }
   </style>
 
 <div
