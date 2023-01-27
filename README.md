@@ -1,6 +1,6 @@
 
 <p align="right">
-  <img height="200" src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png" />
+  <img height="200" src="./img.jpg" />
 </p>
 
 # **Individual Project - SoyHenry**
@@ -23,38 +23,12 @@ The general idea is to create an application in which you can see different food
 
 
 # Environment Requirement
-<style>
-  .logosEnviromentRequirement {
-  display: flex;
-  flex-direction: row;
-  justify-content:space-between;
-  }
- .logos{
-  margin: 0 100px;
- }
-  </style>
 
-<div
-class= "logosEnviromentRequirement"
->
 
-<p>
-  <img height="80" class="logos" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-</p>
-<p >
-  <img height="40"  class="logos" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" />
-</p>
-<p >
-  <img height="85"  class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" />
-</p>
-<p >
-  <img height="80" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
-</p>
-<p >
-  <img height="50"  class="logos" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" />
-</p>
 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,postgres,redux,nodejs,react)](https://skillicons.dev)
+
+
 
 # Download, Install and Run 
 
