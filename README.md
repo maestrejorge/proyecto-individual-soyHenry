@@ -26,7 +26,24 @@ The general idea is to create an application in which you can see different food
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,postgres,redux,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,styledcomponents,postgres,redux,nodejs)](https://skillicons.dev)
+
+Currently the required versions are:
+
+- __Node__: 12.18.3 or more
+- __NPM__: 6.14.16 o more
+- __react__: 17.0.1
+- __react-dom__: 17.0.1
+- __react-router-dom__: 5.2.0
+- __redux__: 4.0.5
+- __react-redux__: 7.2.3
+
+To check which version you have installed:
+
+```bash
+node -v
+npm -v
+```
 
 
 
@@ -61,27 +78,14 @@ The `client` content was created using: Create React App.
 
 ## Run
 
+After cloning the repository, go to the console in the "api" folder and run the following command (do the same for the "client" folder)
 
-
-
-
-
-Currently the required versions are:
-
-- __Node__: 12.18.3 or more
-- __NPM__: 6.14.16 o more
-- __react__: 17.0.1
-- __react-dom__: 17.0.1
-- __react-router-dom__: 5.2.0
-- __redux__: 4.0.5
-- __react-redux__: 7.2.3
-
-To check which version you have installed:
-
-```bash
-node -v
-npm -v
+```blash
+npm start 
 ```
+
+
+
 
 
 
