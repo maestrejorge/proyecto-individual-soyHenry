@@ -72,7 +72,7 @@ The `client` content was created using: Create React App.
 
 ## Run
 
-After cloning the repository, go to the console in the "api" folder and run the following command (do the same for the "client" folder)
+Go to the console in the "api" folder and excute the following command (do the same for the "client" folder)
 
 ```blash
 npm start 
