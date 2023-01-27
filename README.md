@@ -5,7 +5,6 @@
 
 # **Individual Project - SoyHenry**
 
-
 The general idea is to create an application in which you can see different food recipes along with relevant information about them using the external api [spoonacular](https://spoonacular.com/food-api) and from it, among other things:
 
 - Search recipes
@@ -20,11 +19,7 @@ The general idea is to create an application in which you can see different food
 - Learn and practice the GIT workflow.
 - Use and practice testing.
 
-
-
 # Environment Requirement
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,styledcomponents,postgres,redux,nodejs)](https://skillicons.dev)
 
@@ -61,7 +56,7 @@ The boilerplate has two folders: `api` and `client`. In these folders will be th
 Install the dependencies; With the console located in the folder `api` and `client` execute the following commands:
 
 ```blash
-npm  install 
+npm install 
 ```
 In `api` create a file called: `.env` that has the following form:
 
