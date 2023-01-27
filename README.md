@@ -46,8 +46,7 @@ npm -v
 
 ## Download
 
-1. Fork the repository
-2. Clone the repository
+Fork the repository and/or  Clone the repository
 
 ## Install
 
